@@ -33,8 +33,8 @@ module.exports = {
             configurations {
                 defaultConfig {
                     autoStart {
-                        applicationId 'd1238d26-f980-4c60-bf8c-072afa9a41ea'
-                        beaconUrl 'https://bf63639swr.bf-dev.dynatracelabs.com/mbeacon'
+                        applicationId '99104456-8f2e-4975-b917-353c629ee34e'
+                        beaconUrl 'https://bf96366zqj.bf-dev.dynatracelabs.com/mbeacon'
                     }
                     userOptIn false
                     agentBehavior.startupLoadBalancing true
@@ -47,9 +47,9 @@ module.exports = {
         // Those configs are copied 1:1
         config : `
         <key>DTXApplicationID</key>
-        <string>d1238d26-f980-4c60-bf8c-072afa9a41ea</string>
+        <string>99104456-8f2e-4975-b917-353c629ee34e</string>
         <key>DTXBeaconURL</key>
-        <string>https://bf63639swr.bf-dev.dynatracelabs.com/mbeacon</string>
+        <string>https://bf96366zqj.bf-dev.dynatracelabs.com/mbeacon</string>
         <key>DTXLogLevel</key>
         <string>ALL</string>
         <key>DTXUserOptIn</key>
